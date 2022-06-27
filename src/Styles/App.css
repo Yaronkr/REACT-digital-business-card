@@ -1,7 +1,7 @@
 .main--container {
   margin: auto;
   width: 550px;
-  height: 868px;
+  height: 912px;
   background-color: #23252c;
   position:relative;
   border-radius: 10px;
@@ -16,6 +16,10 @@ h1, h2, h3, h4, h5, h6{
   font-family: Roboto Slab;
 }
 
+
+a:hover {
+  color: rgb(150,150,150)
+}
 
 
 .content--container {
