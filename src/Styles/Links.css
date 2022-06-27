@@ -1,0 +1,21 @@
+.icons {
+  color: rgb(154, 154, 154);
+  width: 30px;
+  height: 30px;
+}
+
+ul li {
+  display: inline;
+  padding: 0 10px;
+
+}
+
+ul {
+  padding: 0 0;
+}
+
+.links--container {
+
+  display: flex;
+justify-content: center;
+}

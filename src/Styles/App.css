@@ -1,0 +1,32 @@
+.main--container {
+  margin: auto;
+  width: 550px;
+  height: 868px;
+  background-color: #23252c;
+  position:relative;
+  border-radius: 10px;
+}
+
+p {
+  font-family: Roboto Slab;
+  font-weight: 300;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: Roboto Slab;
+}
+
+
+
+.content--container {
+
+  width: 317px;
+
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: #161619;
+  margin: auto  ;
+  position: absolute;
+  top: 44px;
+  right: 116.5px;
+}

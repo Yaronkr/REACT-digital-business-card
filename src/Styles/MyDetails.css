@@ -1,0 +1,74 @@
+.profile--picture {
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  height: 317px;
+}
+
+.Name,.proffesion{
+  color: white;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.proffesion {
+  margin: 10px;
+  color: #F3BF99;
+  font-weight: 400;
+}
+
+.mysite {
+  color: white;
+  text-decoration: none;
+  font-weight: 300;
+  display: block !important;
+  margin: auto !important;
+  text-align: center;
+}
+
+.myemail {
+  text-decoration: none;
+  color: #1E1F26;
+  padding-left: 10px;
+  font-weight: 500;
+}
+
+.email--button {
+  background-color: white;
+  width: 115px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  border-radius: 3px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.linkedin--button {
+  background-color: #5093E2;
+  width: 115px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  border-radius: 3px;
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.mylinkedin {
+
+  text-decoration: none;
+  color: white;
+  padding-left: 10px;
+  font-weight: 500;
+}
+.buttons {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.linkedin--icon {
+  color: white;
+}
